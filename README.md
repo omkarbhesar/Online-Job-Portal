@@ -1,0 +1,2 @@
+# Online Job Portal
+ The Online Job Portal is a full-stack web application that connects job seekers with employers, offering features like job postings, profile management, job search, and applications. Built with a modern tech stack, the project includes a backend for managing APIs and database interactions and a frontend for delivering a responsive and user-friendly interface. Designed for scalability and usability, the platform caters to job seekers, employers, and administrators, providing tools for efficient recruitment and job search processes.
