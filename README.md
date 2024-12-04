@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Online Job Portal
+ The Online Job Portal is a full-stack web application that connects job seekers with employers, offering features like job postings, profile management, job search, and applications. Built with a modern tech stack, the project includes a backend for managing APIs and database interactions and a frontend for delivering a responsive and user-friendly interface. Designed for scalability and usability, the platform caters to job seekers, employers, and administrators, providing tools for efficient recruitment and job search processes.
+>>>>>>> d5dfe86c42beaa9f88f34daee9cddd7ed042147a
