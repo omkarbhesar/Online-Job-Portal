@@ -1,0 +1,91 @@
+/* Container styles */
+.ns-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Label styles */
+  .ns-container label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  /* Input field styles */
+  .ns-container input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  /* Select dropdown styles */
+  .ns-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #fff;
+  }
+  
+  /* Textarea styles */
+  .ns-message-box {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #eaeaea;
+    color: #555;
+  }
+  
+  /* Button styles */
+  #ns-send {
+    display: block;
+    width: 25%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #f3ebebe5;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    left:600px;
+  }
+  
+  #ns-send:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Utility styles for strong text */
+  .ns-container strong {
+    color: #000;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 600px) {
+    .ns-container {
+      padding: 15px;
+    }
+  
+    #ns-send {
+      font-size: 14px;
+    }
+  }
+  

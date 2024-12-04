@@ -1,0 +1,70 @@
+button{
+    position:relative;
+  
+  left: 1000px;
+  top:10px;
+}
+
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height : 100vh ;
+    font-size: 700px;
+
+}
+.footerh{
+  background-color: black;
+  height: 90px;
+  width: 100%;
+  overflow: hidden;
+}
+.footerh p{
+  color: white;
+  margin:10px;
+
+}
+.container{
+  min-height: 10ovh;
+}
+.footer-social{
+  display: flex;
+  gap: 10px;
+}
+#facebook{
+  background-color: #3b5998;
+}
+#instagram{
+  color: white;
+  background-color: #e1306c;
+}
+#twitter{
+  color: white;
+  background-color: #1da1f2;
+
+}
+#linkedin{
+  color: white;
+  background-color:#0077b5 ;
+}
+.social-button{
+  background-color: white;
+  padding: 0.0008px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  font-size: 25px;
+  text-align: center;
+}
+.footer-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 10 px auto;
+}
+
+.footer-copyright{
+  font-size: 20px;
+}
